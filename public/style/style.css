@@ -1,0 +1,12 @@
+/* Global style settings  */
+body {
+    background-color: rgb(250, 242, 247); 
+}
+
+#aboutMeSection{
+    margin-bottom: 50px; 
+}
+
+#myProjectSection {
+    margin-bottom: 10px; 
+}
