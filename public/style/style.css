@@ -10,3 +10,11 @@ body {
 #myProjectSection {
     margin-bottom: 10px; 
 }
+
+
+/* Buttons  */
+#goNowBtn {
+    background-color: hotpink; 
+    border: white; 
+    color: white; 
+}
