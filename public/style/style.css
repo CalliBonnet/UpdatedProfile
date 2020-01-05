@@ -18,3 +18,8 @@ body {
     border: white; 
     color: white; 
 }
+
+/* footer  */
+#footer {
+    margin-top: 20px; 
+}
